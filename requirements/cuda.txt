@@ -12,4 +12,4 @@ torchvision==0.23.0 # Required for phi3v processor. See https://github.com/pytor
 # Build from https://github.com/facebookresearch/xformers/releases/tag/v0.0.32.post1
 xformers==v0.0.32.post1
 # FlashInfer should be updated together with the Dockerfile
-flashinfer-python==0.4.1
+flashinfer-python==0.3.1.post1
